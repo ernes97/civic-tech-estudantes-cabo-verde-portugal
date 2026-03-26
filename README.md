@@ -9,10 +9,10 @@
 
 ### 📈 Visualizações Interativas
 
-- [📈 Evolução de Estudantes de Cabo Verde](https://teixeiraernesto.github.io/civic-tech-estudantes-cabo-verde-portugal/cabo_verde_evolucao.html)
-- [📊 Participação de Cabo Verde no total PALOP](https://teixeiraernesto.github.io/civic-tech-estudantes-cabo-verde-portugal/cabo_verde_share.html)
-- [🥧 Distribuição por País (2019)](https://teixeiraernesto.github.io/civic-tech-estudantes-cabo-verde-portugal/distribuicao_paises.html)
-- [📈 Crescimento Total de Estudantes Africanos](https://teixeiraernesto.github.io/civic-tech-estudantes-cabo-verde-portugal/crescimento_total.html)
+- [📈 Evolução de Estudantes de Cabo Verde](https://ernes97.github.io/civic-tech-estudantes-cabo-verde-portugal/cabo_verde_evolucao.html)
+- [📊 Participação de Cabo Verde no total PALOP](https://ernes97.github.io/civic-tech-estudantes-cabo-verde-portugal/cabo_verde_share.html)
+- [🥧 Distribuição por País (2019)](https://ernes97.github.io/civic-tech-estudantes-cabo-verde-portugal/distribuicao_paises.html)
+- [📈 Crescimento Total de Estudantes Africanos](https://ernes97.github.io/civic-tech-estudantes-cabo-verde-portugal/crescimento_total.html)
 
 ### 🔑 Principais Insights
 - Cabo Verde registou **CAGR de +XX%** entre 2015-2020 (substitui com o número que saiu no Colab)
