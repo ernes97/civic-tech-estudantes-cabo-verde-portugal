@@ -2,7 +2,7 @@
 
 **Análise de dados oficiais DGES (2015-2020) | Python + Plotly**
 
-### 🎯 O que o projeto responde
+### O que o projeto responde
 - Qual foi o crescimento real dos estudantes cabo-verdianos em Portugal?
 - Como Cabo Verde se posiciona face aos outros países PALOP?
 - Qual o impacto da CPLP na mobilidade académica?
@@ -14,7 +14,7 @@
 - [🥧 Distribuição por País (2019)](https://ernes97.github.io/civic-tech-estudantes-cabo-verde-portugal/distribuicao_paises.html)
 - [📈 Crescimento Total de Estudantes Africanos](https://ernes97.github.io/civic-tech-estudantes-cabo-verde-portugal/crescimento_total.html)
 
-### 🔑 Principais Insights
+### Principais Insights
 - Cabo Verde registou **CAGR de +XX%** entre 2015-2020 (substitui com o número que saiu no Colab)
 - Em 2019 representava **XX%** do total de estudantes PALOP
 - Tendência clara de aceleração após 2017
